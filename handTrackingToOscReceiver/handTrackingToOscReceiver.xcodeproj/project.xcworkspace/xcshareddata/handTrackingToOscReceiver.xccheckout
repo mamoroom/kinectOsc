@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F269269-BE3B-4441-9DAB-23032534443A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>handTrackingToOscReceiver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>525FD6F6-9A51-4425-BD9E-F10DAD17BBCF</key>
+		<string>ssh://github.com/muraji/kinectOsc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>handTrackingToOscReceiver/handTrackingToOscReceiver.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>525FD6F6-9A51-4425-BD9E-F10DAD17BBCF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/muraji/kinectOsc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>525FD6F6-9A51-4425-BD9E-F10DAD17BBCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>525FD6F6-9A51-4425-BD9E-F10DAD17BBCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kinectOsc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
